@@ -7,7 +7,7 @@ preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "Sein"
+    mainpagetitle = "一个平平无奇的博客"
 
     # The subtitle to display under the title in the home page
     mainpagesubtitle = "来啦随便坐！" 
