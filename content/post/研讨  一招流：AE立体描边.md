@@ -14,9 +14,6 @@ categories = [
 
 <!--more-->
 
-<div align="center"> 
-*参考：https://twitter.com/tonybabel/status/1375812387291402247*
-</div>
 
 ---
 ## 立体线条
