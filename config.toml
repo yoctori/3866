@@ -13,7 +13,7 @@ preserveTaxonomyNames = true
     mainpagesubtitle = "来啦随便坐！" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "来啦随便坐！"
+    mainpagedesc = ""
 
     # The name to display in the copyright section in the footer
     copyrightname = "pilotori"
