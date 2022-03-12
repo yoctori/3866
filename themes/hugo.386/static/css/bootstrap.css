@@ -1030,9 +1030,9 @@ pre {
 
 code {
   padding: 0;
-  color: #ffffff;
+  color: #000000;
   white-space: nowrap;
-  background-color: #000000;
+  background-color: #02dad7;
   border: 0;
 }
 
