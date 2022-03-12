@@ -15,6 +15,9 @@ categories = [
 <!--more-->
 
 
+> *参考：https://twitter.com/tonybabel/status/1375812387291402247*
+
+
 ---
 ## 立体线条
 ### 方法
@@ -25,7 +28,7 @@ categories = [
 </a>
 </div>
 
-改善方法：给形状图层添加<span class="sphl">图层样式-描边</span>，为了方便对比，先把这里的颜色改成白色。可以看到白色的描边是均匀的，不像红色描边会因为角度被压扁。
+改善方法：给形状图层添加`图层样式-描边`，为了方便对比，先把这里的颜色改成白色。可以看到白色的描边是均匀的，不像红色描边会因为角度被压扁。
 <div align="center"> 
 <a data-fancybox="gallery-a" href="https://res.cloudinary.com/blog-pilotori-com/image/upload/v1639658582/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20211203125319_q3h1bg.png">
   <img class="rounded" src="https://res.cloudinary.com/blog-pilotori-com/image/upload/v1639658582/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20211203125319_q3h1bg.png" width="85%"/>
