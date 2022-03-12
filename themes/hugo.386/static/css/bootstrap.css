@@ -775,7 +775,7 @@ h3 small,
 h4 small,
 h5 small,
 h6 small {
-  font-weight: normal;
+  font-weight: inherit;
   line-height: 1;
   color: #e95e7a;
 }
@@ -795,20 +795,20 @@ h3:after {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 22px;
   text-transform: uppercase;
   font-weight: bold;
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 20px;
   text-align: center;
   white-space: nowrap;
   font-weight: bold;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: bold;
 }
 
@@ -826,17 +826,17 @@ h6 {
 }
 
 h1 small {
-  font-size: 22px;
-  font-weight: bold;
-}
-
-h2 small {
   font-size: 20px;
   font-weight: bold;
 }
 
-h3 small {
+h2 small {
   font-size: 18px;
+  font-weight: bold;
+}
+
+h3 small {
+  font-size: 16px;
   font-weight: bold;
 }
 
