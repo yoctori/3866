@@ -225,7 +225,7 @@ textarea {
   font-family: 'DOS';
   font-style: normal;
   font-weight: normal;
-  src: url('fonts/方正像素字体.ttf');
+  src: url('fonts/Zpix.ttf');
   
 }
 
@@ -239,14 +239,14 @@ body {
 }
 
 a {
-  color: #fefe54;
+  color: #e95e7a;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #fefe54;
-  background: #aa5500;
+  color: #e95e7a;
+  background: #03d8d9;
 }
 
 .img-rounded {
@@ -709,7 +709,7 @@ dfn:after {
 
 .muted {
   display: none;
-  color: #bbbbbb;
+  color: #a62661;
 }
 
 .text-warning {
@@ -731,21 +731,21 @@ a.text-error:focus {
 }
 
 .text-info {
-  color: #000000;
+  color: #020425;
 }
 
 a.text-info:hover,
 a.text-info:focus {
-  color: #000000;
+  color: #020425;
 }
 
 .text-success {
-  color: #00aa00;
+  color: #03d9d7;
 }
 
 a.text-success:hover,
 a.text-success:focus {
-  color: #00aa00;
+  color: #03d9d7;
 }
 
 .text-left {
@@ -782,7 +782,7 @@ h5 small,
 h6 small {
   font-weight: normal;
   line-height: 1;
-  color: #bbbbbb;
+  color: #e95e7a;
 }
 
 h1,
@@ -816,7 +816,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #fe54fe;
+  color: #e95e7a;
 }
 
 h5 {
