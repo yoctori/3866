@@ -50,19 +50,19 @@ preserveTaxonomyNames = true
     prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
 
     # Text to go between copyright and hugo disclaimer (if enabled)
-    suffix = "pilotori"
+    suffix = ""
 
 [menu]
   # This displays buttons in the navbar to access your contents
   [[menu.main]]
     identifier = "about" # An unique identifier for the button
-    name = "About"       # A display name for the button
+    name = "关于"       # A display name for the button
     url = "/about/"      # The path to the content. It can lead to a single page (like here)
     weight = 10          # A number to order the buttons in the navbar
 
   [[menu.main]]
     identifier = "posts"
-    name = "All posts"
+    name = "博文总览"
     url = "/post/"       # The path can lead to a content folder too.
     weight = 20
 
