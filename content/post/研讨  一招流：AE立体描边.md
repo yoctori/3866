@@ -9,14 +9,14 @@ tags = [
 categories = [
     "研讨",
 ]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
 +++
 
-真的假的3D
+
 <!--more-->
 
+<div align="center"> 
 *参考：https://twitter.com/tonybabel/status/1375812387291402247*
+</div>
 
 ---
 ## 立体线条
