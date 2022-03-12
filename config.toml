@@ -10,10 +10,10 @@ preserveTaxonomyNames = true
     mainpagetitle = "Sein"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "来啦随便坐！" 
+    mainpagesubtitle = "" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = ""
+    mainpagedesc = "来啦随便坐！"
 
     # The name to display in the copyright section in the footer
     copyrightname = "pilotori"
