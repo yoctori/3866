@@ -1,0 +1,20 @@
+[home]
+other = "主页"
+
+[posts]
+other = "博文"
+
+[postslist]
+other = "总览"
+
+[categories]
+other = "分类"
+
+[tags]
+other = "标签"
+
+[backtohome]
+other = "回到首页"
+
+[builton]
+other = "Built on"
