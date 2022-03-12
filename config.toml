@@ -47,7 +47,7 @@ preserveTaxonomyNames = true
     url = ""
 
     # Text to go before copyright information
-    prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
+    prefix = ""
 
     # Text to go between copyright and hugo disclaimer (if enabled)
     suffix = ""
